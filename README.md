@@ -1,4 +1,4 @@
 # LTTS
-**_Demonstraion of Makefile_**
+_Demonstraion of Makefile_
 
-Automating compiling using Makefile
+**Automating compiling using Makefile**
