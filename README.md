@@ -6,5 +6,10 @@ _Demonstraion of Makefile_
 
 **Automating compiling using Makefile**
 
+* Makefile
+* Unit Testing using UNITY
+* CPP Check
+* HackerEarth
+
 [My GitHub](https://github.com/navaneeth2324)
 
