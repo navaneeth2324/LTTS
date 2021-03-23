@@ -6,11 +6,11 @@ _Demonstraion of Makefile_
 
 **Automating compiling using Makefile**
 
-* Makefile
-* Unit Testing using UNITY
-* CPP Check
-* HackerEarth
-* ATL
+* _Makefile_
+* _Unit Testing using UNITY_
+* _CPP Check_
+* _HackerEarth_
+* _ATL_
 
 [My GitHub](https://github.com/navaneeth2324)
 
