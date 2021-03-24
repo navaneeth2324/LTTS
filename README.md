@@ -14,5 +14,5 @@ _Demonstraion of Makefile_
 
 [My GitHub](https://github.com/navaneeth2324)
 
-**DATE 24/04/2021**
+_DATE 24/04/2021_
 
