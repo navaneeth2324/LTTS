@@ -8,7 +8,8 @@ _Demonstraion of Makefile_
 
 * _Makefile_
 
-```Target:dependencies
+```
+Target:dependencies
     gcc dependencies -o target
 ```
 * _Unit Testing using UNITY_
