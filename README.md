@@ -1,6 +1,6 @@
 ![LTTS LOGO](https://th.bing.com/th/id/OIP.ljlc-F5LTH0U_cD9OAQBgQHaCw?pid=ImgDet&rs=1)
 
-# LTTS
+# LTTS StepIn
 
 _Demonstraion of Makefile_
 
