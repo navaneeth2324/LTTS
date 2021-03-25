@@ -10,7 +10,11 @@ _Demonstraion of Makefile_
 
 ```
 Target:dependencies
-    gcc dependencies -o target
+    gcc dependencies -o Target
+run: 
+    Target
+clean:
+    rm Target
 ```
 * _Unit Testing using UNITY_
 * _CPP Check_
