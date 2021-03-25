@@ -7,6 +7,12 @@ _Demonstraion of Makefile_
 **Automating compiling using Makefile**
 
 * _Makefile_
+
+```
+Target:dependencies
+    gcc dependencies -o target
+
+```
 * _Unit Testing using UNITY_
 * _CPP Check_
 * _HackerEarth_
